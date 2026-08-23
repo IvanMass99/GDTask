@@ -19,5 +19,5 @@ export const themes = {
     ['One Dark']: OneDarkTheme,
     ['Rosé Pine']: RosePineTheme,
     ['Deep Blue']: DeepBlueTheme,
-    ['Unity']: UnityTheme,
+    ['Unity Editor Dark']: UnityTheme,
 };
